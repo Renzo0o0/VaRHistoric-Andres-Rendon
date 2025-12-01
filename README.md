@@ -15,11 +15,6 @@ This project implements a multi-asset **Historical Value-at-Risk (VaR)** model u
 - Modular Python structure
 - Portfolio construction with institutional weights
 
-## Next versions
-- Backtesting (Kupiec test)
-- Stress scenarios
-- Institutional PDF report
-
 
 
 **Author:** Andrés Rendón  
