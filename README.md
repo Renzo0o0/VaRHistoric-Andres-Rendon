@@ -16,7 +16,6 @@ This project implements a multi-asset **Historical Value-at-Risk (VaR)** model u
 - Portfolio construction with institutional weights
 
 ## Next versions
-- CVaR / Expected Shortfall
 - Backtesting (Kupiec test)
 - Stress scenarios
 - Institutional PDF report
